@@ -1,27 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
 
-<feature url="features/net.sourceforge.texlipse_1.2.0.jar" id="net.sourceforge.texlipse" version="1.2.0">
-   <category name="TeXlipse"/>
-</feature>
-<feature url="features/net.sourceforge.texlipse_1.2.1.jar" id="net.sourceforge.texlipse" version="1.2.1">
-   <category name="TeXlipse"/>
-</feature>
-<feature url="features/net.sourceforge.texlipse_1.2.2.jar" id="net.sourceforge.texlipse" version="1.2.2">
-   <category name="TeXlipse"/>
-</feature>
-<feature url="features/net.sourceforge.texlipse_1.3.0.jar" id="net.sourceforge.texlipse" version="1.3.0">
-   <category name="TeXlipse"/>
-</feature>
-<feature url="features/net.sourceforge.texlipse_1.4.0.jar" id="net.sourceforge.texlipse" version="1.4.0">
-   <category name="TeXlipse"/>
-</feature>
-<feature url="features/net.sourceforge.texlipse_1.4.1.jar" id="net.sourceforge.texlipse" version="1.4.1">
-   <category name="TeXlipse"/>
-</feature>
-<feature url="features/net.sourceforge.texlipse_1.4.2.jar" id="net.sourceforge.texlipse" version="1.4.2">
-   <category name="TeXlipse"/>
-</feature>
 <feature url="features/net.sourceforge.texlipse_1.5.0.jar" id="net.sourceforge.texlipse" version="1.5.0">
    <category name="TeXlipse"/>
 </feature>
